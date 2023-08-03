@@ -40,3 +40,17 @@ From the analysis of this project, we can see that the five most correlated heal
 
 **Visual 1: Waist Circumference and BMI Related to Metabolic Syndrome**
 
+![Waist_BMI](https://github.com/krisbarbier/Prediction-of-Metabolic-Syndrome/assets/134635095/0b8ca348-da34-421a-99be-161708301690)
+
+Here we can see that on average, those with higher waist circumferences and BMI measurements are more likely to develop metabolic syndrome.
+
+**Visual 2: Other Health Measures Related to Metabolic Syndrome**
+
+![Health_Measures](https://github.com/krisbarbier/Prediction-of-Metabolic-Syndrome/assets/134635095/52b92642-31ef-408b-9b89-9807757028e6)
+
+In these charts, we can see that on average, those with higher blood glucose and triglyceride levels are more likely to develop metabolic syndrome, while having higher HDL levels has the opposite effect.
+
+## Models:
+
+The results of the best machine learning model are as follows:
+
