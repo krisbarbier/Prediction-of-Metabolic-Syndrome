@@ -54,3 +54,21 @@ In these charts, we can see that on average, those with higher blood glucose and
 
 The results of the best machine learning model are as follows:
 
+![Random Forest Metrics](https://github.com/krisbarbier/Prediction-of-Metabolic-Syndrome/assets/134635095/630d96c4-a0cf-4bc3-96d4-c5a55ba06a09)
+
+From these metrics, we see that this tuned random forest model performed with an overall accuracy of 88%. The number of false negatives was 32, or about 16% of the predictions. This was the lowest value for false negatives across all models that were tried and tuned.
+
+## Recommendations:
+
+Based on this data analysis, I would recommend the following:
+
+  - Patients at risk of developing metabolic syndrome should strive to maintain a healthy lifestyle in order to maintain lower measurements of waist circumference, BMI, blood glucose, and triglycerides, while also having higher HDL levels.
+
+## Limitations and Next Steps:
+
+
+## For Further Information:
+
+For any additional questions, please contact:
+
+- Kris Barbier: krisbarbier02@gmail.com
