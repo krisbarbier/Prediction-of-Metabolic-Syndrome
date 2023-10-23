@@ -55,7 +55,7 @@ From the analysis of this project, we can see that the five most correlated heal
 
 ![Random Forest Metrics](https://github.com/krisbarbier/Prediction-of-Metabolic-Syndrome/assets/134635095/630d96c4-a0cf-4bc3-96d4-c5a55ba06a09)
 
-- From these metrics, we see that this tuned random forest model performed with an overall accuracy of 88%. The number of false negatives was 32, or about 16% of the predictions. This was the lowest value for false negatives across all models that were tried and tuned.
+- From these metrics, we see that this tuned random forest model performed with an overall accuracy of 88%. The number of false negatives (located in the bottom left corner of each matrix) was 32, or about 16% of the predictions. This was the lowest value for false negatives across all models that were tried and tuned.
 
 ## Recommendations:
 
