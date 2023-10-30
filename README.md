@@ -76,5 +76,5 @@ For any additional questions, please contact:
 
 - Kris Barbier: krisbarbier02@gmail.com
 
-To see more visuals related to the data, visit:
-- https://public.tableau.com/views/MetabolicSyndrome/MetSynbySexRace?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+To see Tableau generated visuals of the data, visit:
+- https://public.tableau.com/views/MetabolicSyndrome/LandingPage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
